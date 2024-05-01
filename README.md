@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQGSNkttAQJaUQ/profile-displaybackgroundimage-shrink_350_1400/0/1698473522790?e=1709164800&v=beta&t=m3ZHofgeaXQ6iYdtcTtmOh4W4Ggaf1YRwEXyMqDkCcA)
+
 <h1 align="center">Hi 👋, I'm Abraham Dagne</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
 
