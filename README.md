@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Different Web applications**
 
-- 🌱 I’m currently **Software Engineering Student @Arbaminch University || candidate graduate @ Evangadi || intern at Prodigy info tech**
+- 🌱 I’m currently **Software Engineering Student @Arbaminch University || graduate @ Evangadi || intern at Prodigy info tech**
 
 - 👯 I’m looking to collaborate on [Evangadi Forum](https://github.com/ProfessorAbraham/Evangadi-Forum-Group-4-)
 - 
