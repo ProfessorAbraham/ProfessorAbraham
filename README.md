@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Different Web applications**
 
-- 🌱 I’m currently **Software Engineering Student @Arbaminch University || graduate @ Evangadi || intern at Prodigy info tech**
+- 🌱 I’m currently **Software Engineering Student @Arbaminch University || graduate @ Evangadi || intern at Prodigy info tech || Kifiya AIM std**
 
 - 👯 I’m looking to collaborate on [Evangadi Forum](https://github.com/ProfessorAbraham/Evangadi-Forum-Group-4-)
 - 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Web development, MERN , web 3.0 , React Native**
 
-- 📫 How to reach me **abrahamdagne21@gmail.com**
+- 📫 How to reach me **abrahamdagne21@gmail.com, contact@abrahamdagne.com**
 
 - ⚡ Fun fact **I code like a wizard: my spells compile on the first try! ✨🧙‍♂️ #CodeMage**
 
