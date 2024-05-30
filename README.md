@@ -14,8 +14,7 @@
 - 🌱 I’m currently **Software Engineering Student @Arbaminch University || graduate @ Evangadi || intern at Prodigy info tech || Kifiya AIM std**
 
 - 👯 I’m looking to collaborate on [Evangadi Forum](https://github.com/ProfessorAbraham/Evangadi-Forum-Group-4-)
-- 
-
+  
 - 👨‍💻 All of my projects are available at [https://abrahamdagne.com](https://abrahamdagne.com)
 
 - 💬 Ask me about **Web development, MERN , web 3.0 , React Native**
