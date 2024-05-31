@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Web development, MERN , web 3.0 , React Native**
 
-- 📫 How to reach me **abrahamdagne21@gmail.com, contact@abrahamdagne.com**
+- 📫 How to reach me **abrahamdagne21@gmail.com, contact@abrahamdagne.com** any time
 
 - ⚡ Fun fact **I code like a wizard: my spells compile on the first try! ✨🧙‍♂️ #CodeMage**
 
