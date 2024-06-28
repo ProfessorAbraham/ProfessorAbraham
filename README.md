@@ -41,6 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=professorabraham&show_icons=true&locale=en" alt="professorabraham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=professorabraham&" alt="professorabraham" /></p>
-@Abraham Dagne
+
 
 
