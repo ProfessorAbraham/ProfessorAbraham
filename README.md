@@ -1,3 +1,7 @@
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 👋 Hello, I'm Abraham!  <br><br>I'm a passionate Software Engineer and Full-Stack Developer with over 3 years of experience building modern, scalable, and user-friendly applications. My expertise lies in working with **React, TypeScript, GraphQL, Laravel, and the MERN stack. I have a strong focus on creating efficient, elegant solutions to challenging problems, with a particular interest in school systems, e-learning platforms, and digitalized solutions.  <br><br> 🛠️ My Skills:<br>- Frontend Development: React, TypeScript, JavaScript, GraphQL, TailwindCSS  <br>- Backend Development: Node.js, Laravel, Express.js  <br>- Database: PostgreSQL, MySQL, MongoDB  <br>- Other Tools: Docker, AWS Services, Git, RESTful APIs  <br><br> 🌟 Notable Projects:<br>- Chereka SMS: A comprehensive school system with an e-learning platform.  <br>- AbeGarage: A garage management app built using React, TypeScript, and GraphQL.  <br>- Chereka Technology: A startup offering Digital solutions.  <br><br> 🚀 Goals & Interests:<br>- Continuously learning cutting-edge technologies (exploring Nest.js and AWS further).  <br>- Expanding my knowledge in medical technology and property management software.  <br>- Building innovative solutions tailored for the market.  <br><br> 💡 Fun Facts:<br>- I recently started a [Telegram channel](https://t.me/codenchaos) called Code&Chaos, where I share programming tips, daily thoughts, and fun coding anecdotes.  <br>- Outside of coding, I enjoy hitting the gym 🏋️‍♂️ and brainstorming new business ideas!  <br><br> 📫 Let's Connect:<br>- GitHub: You're already here!  <br>- LinkedIn:  https://www.linkedin.com/in/abraham-dagne-593b57283/ <br>- Email: abrahamdagne21@gmail.com  <br>- Telegram: https://t.me/abraham_dagne<br>
 
@@ -13,10 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=professorAbraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=professorAbraham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
