@@ -40,7 +40,7 @@
 ### Back-end Frameworks
 | Express | Next.js | Node.js | Django |
 |----------|----------|----------|----------|----------|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://skillicons.dev/icons?i=django" alt="django" />](https://www.djangoproject.com/) 
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://skillicons.dev/icons?i=django" alt="django" />](https://www.djangoproject.com/) |
 
 ### Databases and Data Manipulation
 | Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
