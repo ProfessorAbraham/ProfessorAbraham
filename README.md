@@ -13,14 +13,14 @@
   
 - 💬 Ask me about **Python, Automation, Frontend, JavaScript, MEARN Stack, and AI-related technologies**.
   
-- 📫 How to reach me: **AbrahamDagne96@gmail.com**
+- 📫 How to reach me: **AbrahamDagne21@gmail.com**
   
 - ⚡ Fun fact: **I am Funny and love to learn new things every day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/abraham-dagne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abraham-Dagne" height="30" width="40" /></a>
-  <a href="https://instagram.com/Abraham.Dagne.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abraham_Dagne" height="30" width="40" /></a>
+  <a href="[[https://www.linkedin.com/in/abraham-dagne-593b57283/](https://www.linkedin.com/in/abraham-dagne-593b57283/)](https://www.linkedin.com/in/abraham-dagne-593b57283/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abraham-Dagne" height="30" width="40" /></a>
+  <a href="https://instagram.com/Abraham_Dagne1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abraham_Dagne" height="30" width="40" /></a>
 </p>
 
 # My Developer Portfolio
