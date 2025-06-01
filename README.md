@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ProfessorAbraham" target="blank"><img src="https://img.shields.io/twitter/follow/ProfessorAbraham?logo=twitter&style=for-the-badge" alt="ProfessorAbraham"  </p>
 
-- 🔭 I’m currently working on **Web Development, Web Scraping, AI Solutions, and JFK Grand Transportation Project**.
+- 🔭 I’m currently working on **Web Development, Web Scraping, AI Solutions, and JFK Grand Transportation Project @**.
   
 - 🌱 I’m currently learning **DevOps, ML, and expanding my AI Engineering skills**.
   
