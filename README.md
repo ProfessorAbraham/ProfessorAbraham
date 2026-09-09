@@ -1,59 +1,100 @@
-# ⚡ Abraham Dagne | Full-Stack & AI Systems Architect
-### *The intersection of production reliability and autonomous intelligence.*
+# Hi, I'm Abraham Dagne 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/System_Architect-Senior_Tier-blueviolet?style=for-the-badge&logo=codeproject&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open_for_Roles-success?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### Full-Stack Engineer building production software and AI-powered systems
 
----
+I build web applications, business platforms, and AI systems with a focus on solving real-world problems.
 
-### 🤖 Meet My Digital Twin: `Abraham-Agent-v1.0`
-> *I’ve built an autonomous version of my engineering persona to assist in R&D.*
+My work spans **Laravel, React, Next.js, Node.js, Python, PostgreSQL, Redis, and RAG/LLM systems**.
 
-| Agent Parameter | Value | Status |
-| :--- | :--- | :--- |
-| **Current Task** | Optimizing Amharic RAG Pipelines | `RUNNING` 🟢 |
-| **Logic Engine** | GPT-4o / Claude 3.5 Sonnet | `ACTIVE` ⚡ |
-| **Knowledge Base** | 5+ Years of Full-Stack Patterns | `INDEXED` 📚 |
-| **Primary Goal** | Bridging LLMs with Scalable ERPs | `FOCUSED` 🎯 |
+I'm particularly interested in applying AI to **education, African markets, and low-resource languages such as Amharic**.
 
 ---
 
-### 🏛️ Engineering Foundation (Showcasing 5+ Years)
-I don't just "write code"; I build systems that last. My seniority is hidden in the **Reliability** of my work.
+## 🚀 What I Build
 
-* **Architectural Mastery:** Transitioned from monoliths (Laravel/PHP) to scalable Microservices (Node/Python).
-* **Junior-Friendly, Senior-Grade:** I write code that is **clean, documented, and modular**—making me the perfect bridge between senior strategy and junior execution.
-* **The "Hustle" Record:** Over 5 years of daily shipping, solving real-world performance bottlenecks in the Ethiopian tech ecosystem.
-
----
-
-### 🛠️ The Hybrid Stack
-| **Level** | **Technologies** |
-| :--- | :--- |
-| **Advanced (Architect)** | Agentic RAG • Multi-Agent CrewAI • Microservices • Docker |
-| **Core (Full-Stack)** | MERN Stack (MongoDB, Express, React, Node) • TypeScript • Laravel |
-| **Ops & Scaling** | Redis • PostgreSQL • GitHub Actions CI/CD • AWS Deployment |
+* 🏢 Business & enterprise software
+* 🎓 Education and school management systems
+* 🤖 RAG and LLM-powered applications
+* 🌍 AI applications for African and low-resource language use cases
+* ⚡ Full-stack web applications
+* 📊 Data and machine-learning systems
 
 ---
 
-### 🏗️ Portfolio Highlights: Logic in Action
-* **[Core-AI-Orchestrator](https://github.com/ProfessorAbraham)**: An autonomous task-runner built with **Python & LangChain**. 
-    * *Senior Proof:* Implemented retry logic and vector-cache optimization.
-* **[Scale-Ready-MERN](https://github.com/ProfessorAbraham)**: A boilerplate featuring strict **TypeScript** and **RBAC security**.
-    * *Junior-Friendly:* Perfect documentation for onboarding new developers.
-* **[Ethiopic-NLP-Toolkit](https://github.com/ProfessorAbraham)**: Specialized processing for Amharic script.
-    * *Impact:* High-accuracy text chunking for localized LLM applications.
+## ⭐ Featured Projects
+
+### 🎓 Chereka School Management System
+
+A modular school management platform designed to automate academic and administrative operations.
+
+**Stack:** Laravel • PHP • MySQL • JavaScript
+
+### 🚐 JFK Ground Transportation Platform
+
+A full-stack transportation management system developed for a ground transportation business.
+
+**Stack:** React • Node.js • Laravel • PostgreSQL
+
+### 🇪🇹 Amharic Legal RAG & Sentiment Analysis
+
+An AI system combining retrieval-augmented generation and Amharic sentiment analysis for localized legal and organizational use cases.
+
+**Stack:** Python • RAG • Sentence Transformers • Chroma • Streamlit
+
+### ☀️ Solar Data Analysis
+
+Exploratory analysis and data-quality investigation of solar datasets across multiple African countries.
+
+**Stack:** Python • Pandas • NumPy • Matplotlib
 
 ---
 
-### 🔗 Digital Handshake
-* **LinkedIn**: [Abraham Dagne](https://www.linkedin.com/in/abraham-dagne-830209252/)
-* **Telegram**: [@Professor_Abraham](https://t.me/Professor_Abraham)
-* **Email**: [abrahamdagne1@gmail.com](mailto:abrahamdagne1@gmail.com)
+## 🧰 Technical Stack
+
+**Languages**
+
+PHP • JavaScript • TypeScript • Python • Java
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Backend**
+
+Laravel • Node.js • Express
+
+**AI / Data**
+
+RAG • LLM Applications • LangChain • NLP • Machine Learning • Pandas
+
+**Databases & Infrastructure**
+
+PostgreSQL • MySQL • MongoDB • Redis • Docker • GitHub Actions
 
 ---
-<p align="center">
-  <i>"Code is poetry. Architecture is the stage."</i>
-</p>
+
+## 🧠 Engineering Interests
+
+* System architecture
+* API design
+* Authentication & authorization
+* Database design
+* RAG systems
+* AI application engineering
+* Scalable backend systems
+* Developer tooling
+* African technology ecosystems
+
+---
+
+## 📫 Connect
+
+**Website:** abrahamdagne.com
+
+**LinkedIn:** Abraham Dagne
+
+**GitHub:** @ProfessorAbraham
+
+---
+
+> Building software that solves real problems.
